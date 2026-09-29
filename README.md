@@ -20,9 +20,9 @@ This project demonstrates the fundamental concepts of CRUD (Create, Read, Update
 *   **Local Environment:** Laragon 
 
 ## Project Structure
-📁 design
-├── 📁 assets
-│   └── 📄 script.js           # Frontend scripts (if any)
+ design
+├──  assets
+│   └──  script.js           # Frontend scripts (if any)
 ├── 📁 core
 │   ├── 📄 functionForQuery.php # Centralized SQL queries and database functions
 │   └── 📄 validations.php      # Form validation logic
